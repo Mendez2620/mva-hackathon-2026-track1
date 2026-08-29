@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# All controlled or patient-derived inputs and intermediates
+data/
+work/
+private/
+public_cache/
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+*.bcf
+*.bam
+*.bai
+*.cram
+*.crai
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.gvcf
+*.gvcf.gz
+*.docx
+
+# Downloaded public predictor binaries are reproducible but not versioned
+*.bw
+*.bigWig
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/

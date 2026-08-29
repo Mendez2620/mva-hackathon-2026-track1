@@ -1,0 +1,9 @@
+clinical_feature	hpo_term	hpo_id	presentation
+Rhabdomyosarcoma	Rhabdomyosarcoma	HP:0002859	Primary oncological event
+Nephrocalcinosis	Nephrocalcinosis	HP:0000121	Present since birth
+Short stature	Short stature	HP:0004322	Height below expected range
+Low muscle mass / failure to thrive	Failure to thrive	HP:0001508	Poor weight gain and muscle development
+Low muscle mass / failure to thrive	Skeletal muscle atrophy	HP:0003202	Reduced muscle bulk
+Premature birth	Premature birth	HP:0001622	Born at 32 weeks
+Very low birth weight	Small for gestational age	HP:0001518	Approximately 1 kg; severe IUGR
+Parental recurrent miscarriages	Recurrent spontaneous abortion	HP:0200067	Maternal/parental history
